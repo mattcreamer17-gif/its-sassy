@@ -1,0 +1,3 @@
+This is a bespoke, single-page landing built for Its Sassy Marketing (eMerge Americas 2026, Booth 525). It uses the Its Sassy brand tokens (Wix Madefor Display and Text, warm orange #FF5A1F CTA, near-black ink, light neutrals) to feel native to their Wix site. The page carries Jake's 60 / 30 / 10 read on where AI fits in a 3-person agency's delivery stack, points to the Simple Lyfe Stays shape of engagement as the closest precedent, hyperlinks the Interpretable Context Methodology repo, and closes with a 30-minute call with Matt Creamer (CRO at Eduba). Eduba branding appears only in the footer. No pricing, no em dashes, no antithesis patterns, no performed questions, no hype words. Mobile responsive from 375px.
+
+Intended URL path: /for/its-sassy
